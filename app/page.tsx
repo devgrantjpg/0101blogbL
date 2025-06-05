@@ -152,7 +152,7 @@ export default function Home() {
 
           <Link href="./mars">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
-              <img src="/bookimgsmars.jpg" alt="Mars" style={{ maxWidth: '200px', borderRadius: '8px' }} />
+              <img src="/bookimgs/mars.jpg" alt="Mars" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Mars</p>
             </div>
           </Link>
@@ -166,7 +166,7 @@ export default function Home() {
 
           <Link href="./twistedCrowns">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
-              <img src="/bookimgs/twistedCrowns.jpg" alt="Twisted Crowns" style={{ maxWidth: '200px', borderRadius: '8px' }} />
+              <img src="/bookimgs/twistedcrowns.jpg" alt="Twisted Crowns" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Twisted Crowns</p>
             </div>
           </Link>
