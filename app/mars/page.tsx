@@ -63,7 +63,7 @@ export default function Mars() {
       <p style={{ color: '#bbb' }}>Free shipping</p>
       <p style={{ color: '#bbb' }}>Paperback Novel</p>
 
-      <Link href="https://www.paypal.com/ncp/payment/HTAMK99QC7FKE" passHref>
+      <Link href="https://www.paypal.com/ncp/payment/PA7Q4URFXC8G8" passHref>
         <Button style={styles.button}>Buy</Button>
       </Link>
     </div>
