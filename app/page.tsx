@@ -166,7 +166,7 @@ export default function Home() {
 
           <Link href="./twistedCrowns">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
-              <img src="/bookimgs/twistedcrowns.jpg" alt="A game of Thrones" style={{ maxWidth: '200px', borderRadius: '8px' }} />
+              <img src="/bookimgs/twistedcrowns.jpg" alt="Two Twisted Crowns" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Two Twisted Crowns</p>
             </div>
           </Link>
