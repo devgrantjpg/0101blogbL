@@ -164,10 +164,10 @@ export default function Home() {
             </div>
           </Link>
 
-          <Link href="./twistedCrowns">
+          <Link href="">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
-              <img src="/bookimgs/twistedcrowns.jpg" alt="Two Twisted Crowns" style={{ maxWidth: '200px', borderRadius: '8px' }} />
-              <p>Two Twisted Crowns</p>
+              <img src="/bookimgs/dune.jpg" alt="Two Twisted Crowns" style={{ maxWidth: '200px', borderRadius: '8px' }} />
+              <p>Dune</p>
             </div>
           </Link>
 
