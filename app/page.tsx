@@ -152,7 +152,7 @@ export default function Home() {
 
           <Link href="./mars">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
-              <img src="/bookimgs/Mars.jpg" alt="Mars" style={{ maxWidth: '200px', borderRadius: '8px' }} />
+              <img src="/bookimgsmars.jpg" alt="Mars" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Mars</p>
             </div>
           </Link>
